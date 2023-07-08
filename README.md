@@ -6,10 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
+💡 &nbsp; I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Mechanical Engineering at National Institute of Technology, Rourkela.\
 🌱 &nbsp;I'm on track for learning more about various Web Technologies.\
-✍️ &nbsp;In my free time, I pursue Debating and Creative Writing as hobbies.\
+✍️ &nbsp;In my free time, I pursue Debating and Creative Writing as hobbies.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br />
