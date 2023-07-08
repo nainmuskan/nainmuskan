@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello!%20That's%20me%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
-![Muskan Nain Banner](https://github.com/nainmuskan/nainmuskan/assets/113055555/b72105d6-6d30-4ec7-a163-113a3dc87916)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>I'm Muskan Nain</h2>
 
