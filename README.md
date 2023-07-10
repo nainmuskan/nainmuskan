@@ -36,7 +36,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-<br />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
